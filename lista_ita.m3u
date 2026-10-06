@@ -1,4 +1,4 @@
-#EХTM3U
+#EXTM3U
 #EXTINF:-1 tvg-name="SKY SPORT 24 .c" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" tvg-id="skysport24.it",SKY SPORT 24 .c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
